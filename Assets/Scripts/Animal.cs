@@ -15,7 +15,7 @@ public class Animal : MonoBehaviour
         if (SimilarName(collision.gameObject.name, gameObject.name))
         {
             // Check if the current animal is not the last one in the list
-            if (currentIndex != 5)
+            if (currentIndex != 6)
             {
                 //Merge animals
                 if (this.gameObject.transform.position.y < collision.gameObject.transform.position.y)

@@ -168,5 +168,6 @@ MonoBehaviour:
   - {fileID: 6586792074854509882, guid: 76544d98f39b895418557137d614fadc, type: 3}
   - {fileID: 4579896949656028010, guid: caa1d317321c1c8489e688471218504b, type: 3}
   - {fileID: 7881369445413803681, guid: 6f600e221966dac4696cae53d54c0ee3, type: 3}
+  - {fileID: 677102084703230944, guid: be0efcacf25d4f746b0675a82260f861, type: 3}
   scoreText: {fileID: 0}
   currentIndex: 0
